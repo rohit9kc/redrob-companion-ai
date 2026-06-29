@@ -4,6 +4,8 @@ A floating AI companion built for the India.Runs x Redrob Ideathon.
 
 Redrob Companion AI is represented by a virtual cat that stays on the screen and acts as a conversational gateway to the Redrob ecosystem.
 
+Live Demo: https://redrob-companion-ai.vercel.app/
+
 ## Idea
 
 Users express goals naturally.  
