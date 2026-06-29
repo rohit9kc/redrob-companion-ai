@@ -1,16 +1,47 @@
-# React + Vite
+# Redrob Companion AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A floating AI companion built for the India.Runs x Redrob Ideathon.
 
-Currently, two official plugins are available:
+Redrob Companion AI is represented by a virtual cat that stays on the screen and acts as a conversational gateway to the Redrob ecosystem.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Idea
 
-## React Compiler
+Users express goals naturally.  
+The companion decides which Redrob capability should be used.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Examples:
 
-## Expanding the ESLint configuration
+- "Find AI internships" -> Job Search
+- "Why is my resume score low?" -> Resume Ranker
+- "Find startups hiring backend engineers" -> Company Search + Job Search
+- "Find hiring managers in AI companies" -> People Search
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Floating virtual companion
+- Click-to-open chat panel
+- Natural language input
+- Simulated AI intent understanding
+- Redrob capability routing
+- Quick action buttons
+- Friendly desktop-companion experience
+
+## Redrob Capabilities Simulated
+
+- Job Search
+- Company Search
+- People Search
+- Resume Ranker
+
+## Tech Stack
+
+- React
+- Vite
+- JavaScript
+- CSS
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
